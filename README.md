@@ -10,7 +10,7 @@ Tudo começou com uma curiosidade:
 
 > “E se eu quisesse um lanche de 20cm ou 40cm? Quanto custaria?” 🤔
 
-Sabemos que o **Subway** trabalha com tamanhos de **15cm** e **30cm**, e em muitos casos o preço do de 30cm é **exatamente o dobro** do de 15cm.
+Sabemos que o **Subway** trabalha com tamanhos de **15cm** e **30cm**, e em alguns casos o preço do de 30cm é **o dobro** do de 15cm.
 Então pensei:
 
 > “Será que consigo criar um modelo que calcule automaticamente o preço proporcional de qualquer tamanho de lanche?”
@@ -168,4 +168,5 @@ Esse projeto me ajudou a entender de forma prática:
 **Marina Kally**
 📍 Desenvolvido com foco em aprendizado e prática de Machine Learning aplicado a casos reais.
 🔗 [LinkedIn](https://www.linkedin.com/in/marina-kally-695535252)
+
 
