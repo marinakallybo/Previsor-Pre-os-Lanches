@@ -143,8 +143,11 @@ Exemplo:
 ## 💻 Interface Interativa
 
 A aplicação em **Streamlit** permite que o usuário:
+
 ✅ Escolha o tipo de lanche
+
 ✅ Digite o comprimento desejado (20 cm, 40 cm, etc.)
+
 ✅ Veja o preço previsto em tempo real
 
 🔗 Acesse o projeto online:
@@ -169,6 +172,7 @@ Esse projeto me ajudou a entender de forma prática:
 **Marina Kally**
 📍 Desenvolvido com foco em aprendizado e prática de Machine Learning aplicado a casos reais.
 🔗 [LinkedIn](https://www.linkedin.com/in/marina-kally-695535252)
+
 
 
 
