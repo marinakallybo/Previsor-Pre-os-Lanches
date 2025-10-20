@@ -34,7 +34,6 @@ Foi aí que nasceu o **Previsor de Preço de Lanches**, um projeto que une **Pyt
 ### 🔹 1. Clonar o repositório
 ```bash
 git clone https://github.com/marinakallybo/Previsor-Pre-os-Lanches.git
-cd previsor-de-preco-lanches
 ````
 
 ### 🔹 2. Instalar o Poetry (caso ainda não tenha)
@@ -169,3 +168,4 @@ Esse projeto me ajudou a entender de forma prática:
 **Marina Kally**
 📍 Desenvolvido com foco em aprendizado e prática de Machine Learning aplicado a casos reais.
 🔗 [LinkedIn](https://www.linkedin.com/in/marina-kally-695535252)
+
