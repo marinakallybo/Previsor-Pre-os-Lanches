@@ -5,7 +5,7 @@ import numpy as np
 
 # Configuração do Streamlit
 st.set_page_config(layout="centered")
-st.title(" Previsor de Preço de Lanches")
+st.title(" Previsor de Preço de Lanches 🥪 ")
 st.subheader("Modelo de Regressão Linear com Proporcionalidade")
 st.divider()
 
@@ -46,7 +46,7 @@ except Exception as e:
 
 # TESTES DE PROPORCIONALIDADE
 
-with st.expander("📊 Testes de Proporcionalidade (Verificação do Modelo)", expanded=True):
+with st.expander("📊 Testes de Proporcionalidade ", expanded=True):
     previsoes = modelo.predict(x)
     
     df_teste = df[['comprimento', 'preço']].copy()
@@ -124,4 +124,4 @@ if st.button("Prever Preço"):
         st.warning("Por favor, insira um comprimento de lanche válido.")
 
 st.divider()
-st.caption("Ajuste de Modelo: Usamos termos de interação (Sabor x Comprimento) e forçamos o modelo a não ter intercepto para garantir uma proporcionalidade perfeita.")
+st.caption("Desenvolvido por Marina Kally - Modelo de Regressão Linear com Proporcionalidade")
