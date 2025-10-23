@@ -150,9 +150,6 @@ A aplicação em **Streamlit** permite que o usuário:
 
 ✅ Veja o preço previsto em tempo real
 
-🔗 Acesse o projeto online:
-👉 [https://marinakallybo-previsor-pre-os-lanches-app-mzedzy.streamlit.app](https://marinakallybo-previsor-pre-os-lanches-app-mzedzy.streamlit.app)
-
 ---
 
 ## 📚 Aprendizados
@@ -172,6 +169,7 @@ Esse projeto me ajudou a entender de forma prática:
 **Marina Kally**
 📍 Desenvolvido com foco em aprendizado e prática de Machine Learning aplicado a casos reais.
 🔗 [LinkedIn](https://www.linkedin.com/in/marina-kally-695535252)
+
 
 
 
